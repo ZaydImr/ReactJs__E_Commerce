@@ -21,6 +21,7 @@ const MiniFooter = props => {
               Copyright © {new Date().getFullYear()}{" "}
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://github.com/ZaydImr"
                 className="text-teal-400 hover:text-gray-400 text-sm font-semibold"
               >
